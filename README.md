@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello! I'm Jhonatan 😄/></h1>
+<h1 align="center">Hello! I'm Jhonatan 😄</h1>
 
 <div align="center">
   
