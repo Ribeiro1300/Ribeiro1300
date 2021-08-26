@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   [comment]: <> (<h3>Portfólio: <a href="https://www.pedrorivaldo.me" target="_blank">pedrorivaldo.me</a></h3>)
   
   <p>DrivenDev in formation</p>
+  <a src="https://ribeiro1300.github.io/perfil/">Portfólio</a>
 
 </div>
 
@@ -51,6 +52,5 @@ Here are some ideas to get you started:
   [![WhatsApp Bagde](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521971346486)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatan_dribeiro@hotmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-dribeiro)
-  [(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-dribeiro)
 
 </div>
