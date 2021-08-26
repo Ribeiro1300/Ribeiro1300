@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   [comment]: <> (<h3>Portfólio: <a href="https://www.pedrorivaldo.me" target="_blank">pedrorivaldo.me</a></h3>)
   
   <p>DrivenDev in formation</p>
-  <a src="https://ribeiro1300.github.io/perfil/">Portfólio</a>
+  <a href="https://ribeiro1300.github.io/perfil/">Portfólio</a>
 
 </div>
 
