@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Ribeiro1300/Ribeiro1300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
