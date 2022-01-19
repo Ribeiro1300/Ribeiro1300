@@ -1,8 +1,5 @@
 
 <!--
-**Ribeiro1300/Ribeiro1300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,7 +16,6 @@ Here are some ideas to get you started:
   
   
   <p> Full-Stack DrivenDev</p>
-  <a href="https://ribeiro1300.github.io/perfil/">portfolio</a>
 
 </div>
 
