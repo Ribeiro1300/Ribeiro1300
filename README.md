@@ -1,30 +1,25 @@
-
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hello! I'm Jhonatan 😄</h1>
 
 <div align="center">
-  
   
   <p> Full-Stack DrivenDev</p>
 
 </div>
 
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning C# and VueJS
+- 🔭 I’m currently working on being the best version of myself
+- 👯 I’m looking to collaborate on any open source project
+- 🤔 I’m focused on being happy and health
+- 💬 Ask me about video games! I'll talk for hours
+- ⚡ Fun fact: I almost became a fighter pilot. Flying is still a dream of mine, one day maybe...
+
 <br>
 
 <div align="center">
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ribeiro1300&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160Em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiro1300&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Ribeiro1300&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140Em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiro1300&layout=compact&langs_count=16&theme=tokyonight"/>
 
 </div>
 
@@ -42,9 +37,9 @@
   ![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![Postgres Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  ## Contact me!
-  
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatan_dribeiro@hotmail.com)
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-dribeiro)
+## Contact me!
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatan_dribeiro@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-dribeiro)
 
 </div>
